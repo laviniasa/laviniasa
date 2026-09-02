@@ -1,52 +1,61 @@
-## heey!
+# Olá! Eu sou a Lavínia 👋
 
+💻 **Computer Science student | Python | Flask | SQL | IT Operations | AWS**
 
-<div>
-<!-- Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. -->
+Sou estudante de Ciência da Computação no último semestre, com experiência prática em **operações de Data Center, suporte técnico e desenvolvimento de aplicações**.
 
-<img align-itens="center" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+Meu foco profissional está em oportunidades de **Desenvolvimento de Software Júnior, Suporte/Infraestrutura e Operations Technology**.
 
+## 🚀 Sobre mim
 
-<br>
+- 🔧 Experiência com troubleshooting, manutenção de hardware e operações em ambiente de missão crítica
+- 🐍 Desenvolvimento de aplicações com **Python e Flask**
+- 🗄️ Conhecimentos em **SQL, SQLite e PostgreSQL**
+- 🌐 Desenvolvimento web com **HTML, CSS e JavaScript**
+- ☁️ Estudos e experiência prática com **AWS e Cloud**
+- 🐳 Conhecimentos em **Docker e containers**
+- 🔀 Uso de **Git e GitHub** em projetos acadêmicos e profissionais
+- 🤖 Interesse em automação, DevOps, Cloud e soluções para operações de TI
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
-    
-  
-<!--   ## **GitHub Estatísticas** -->
+## 🛠️ Tecnologias
 
-<!-- <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniasa&theme=dracula&hide_langs_below=1" />
-</a>
+**Linguagens:** `Python` `JavaScript` `HTML` `CSS` `SQL`
 
-<a href="https://github.com/Gurupreet">
- <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=laviniasa&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a> -->
+**Frameworks e ferramentas:** `Flask` `Docker` `Git` `GitHub`
 
-<!-- [website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br> -->
+**Cloud:** `AWS` `EC2` `Lambda` `Elastic Beanstalk` `RDS` `ECS` `EKS`
 
-<!-- #### Rede Sociais! -->
-<!-- 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
- -->
+## ⭐ Projetos em destaque
 
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+### 📅 AZ2 Shift App
+Aplicação de apoio ao gerenciamento de turnos, com validações e automações para reduzir erros no processo de escala.
+
+### 🧰 Kit na Mão
+Projeto de aplicação voltado para organização e gerenciamento de recursos.
+
+### 🌐 Marvix
+Projeto web desenvolvido para uma empresa, envolvendo interface, formulários, painel administrativo e banco de dados.
+
+### 🍰 Ana Tortas
+Aplicação web para apresentação de produtos e gerenciamento de conteúdo.
+
+### 🐳 FullCycle Tech Support Test
+Desafio técnico envolvendo investigação de problemas, suporte técnico, Docker, Node.js, SQL e conceitos de infraestrutura.
+
+## 📌 O que estou buscando
+
+- Software Development
+- Python / Backend
+- IT Support
+- Cloud / DevOps
+- Operations Technology
+
+## 📫 Vamos nos conectar?
+
+🔗 [LinkedIn](https://www.linkedin.com/in/laviniasa/)
+
+💻 [GitHub](https://github.com/laviniasa)
+
+---
+
+⭐ Obrigada por visitar meu perfil!
