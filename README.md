@@ -58,4 +58,8 @@ Desafio técnico envolvendo investigação de problemas, suporte técnico, Docke
 
 ---
 
+## 🐍 Minha atividade no GitHub
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/laviniasa/laviniasa/output/github-contribution-grid-snake.svg)
+
 ⭐ Obrigada por visitar meu perfil!
